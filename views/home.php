@@ -94,7 +94,7 @@
 					<ul class="transition_link">
 						<li class="active"><a href="#home">Home</a></li>
 						<li><a href="#about">PROFIL</a></li>
-						<li><a href="#portfolio">Portfolio</a></li>
+						<li><a href="#portfolio">MIJU</a></li>
 						<li><a href="#contact">Contact</a></li>
 					</ul>
 				</div>
@@ -111,8 +111,8 @@
 				<div class="menu">
 					<ul class="transition_link">
 						<li class="active"><a href="#home">Home</a></li>
-						<li><a href="#about">PROFIL PENGUSAHA</a></li>
-						<li><a href="#portfolio">Portfolio</a></li>
+						<li><a href="#about">PROFIL</a></li>
+						<li><a href="#portfolio">MIJU</a></li>
 						<li><a href="#contact">Contact</a></li>
 					</ul>
 				</div>
@@ -153,7 +153,7 @@
 						<div class="left">
 							<div class="image">
 								<img src="https://adhyy.my.id/public/home/img/thumbs/1-1.jpg" alt="" />
-								<div class="main" data-img-url="aan.jpg"></div>
+								<div class="main" data-img-url="aan1.jpg"></div>
 							</div>
 						</div>
 						<div class="right">
@@ -225,7 +225,7 @@
 													<li>
 														<div class="list_inner">
 															<i class="icon-phone"></i>
-															<span><a href="#">+62 857-1354-6327</a></span>
+															<span><a href="#">+62 856-5636-0926</a></span>
 														</div>
 													</li>
 													<li>
@@ -245,7 +245,7 @@
 										<div class="right_inner">
 											<div class="biography">
 												<div class="about_title">
-													<h3><span>PROFIL PENGUSAHA <span class="coloring">Me</span></span></h3>
+													<h3><span>PROFIL <span class="coloring">Me</span></span></h3>
 												</div>
 												<div class="text">
 													<p>Halo, nama Saya <span>Ahmad Farhan.</span> Biasa dipanggil Aan, Saat ini saya sedang menempuh pendidikan di Universitas Hasanuddin Fakultas Ekonomi dan Bisnis Program Studi Manajemen. Saya Lulusan dari SMA Negeri 2 Makassar pada bulan Mei tahun 2023.</p>
@@ -267,122 +267,7 @@
 													</ul>
 												</div>
 											</div>
-											
-											
-											<div class="timeline">
-												<div class="about_title">
-													<h3><span>Education <span class="coloring">Timeline</span></span></h3>
-												</div>
-												<div class="list">
-													<ul>
-														<li>
-															<div class="list_inner">
-																<div class="time">
-																	<span>2018 - 2022</span>
-																</div>
-																<div class="place">
-																	<h3>Universitas Hasanuddin</h3>
-																	<span>S1 - Teknik Informatika</span>
-																</div>
-															</div>
-														</li>
-													</ul>
-												</div>
-											</div>
-                                            <div class="timeline">
-												<div class="about_title">
-													<h3><span>Appreciation <span class="coloring">Timeline</span></span></h3>
-												</div>
-												<div class="list">
-													<ul>
-														<li>
-															<div class="list_inner">
-																<div class="time">
-																	<span>2022</span>
-																</div>
-																<div class="place">
-																	<h3>Microsoft Certified Fundamentals (MCF)</h3>
-																	<span>Title / Degree</span>
-																</div>
-															</div>
-														</li>
-                                                        <li>
-															<div class="list_inner">
-																<div class="time">
-																	<span>2022</span>
-																</div>
-																<div class="place">
-																	<h3>Certified IT Support Associate (CITSA)</h3>
-																	<span>Title / Degree</span>
-																</div>
-															</div>
-														</li>
-													</ul>
-												</div>
-											</div>
-											<div class="timeline">
-												<div class="about_title">
-													<h3><span>Experience <span class="coloring">Timeline</span></span></h3>
-												</div>
-												<div class="list">
-													<ul>
-														<li>
-															<div class="list_inner">
-																<div class="time">
-																	<span>2020</span>
-																</div>
-																<div class="place">
-																	<h3>Program Kreativitas Mahasiswa</h3>
-																	<span>In Kemdikbud</span>
-																</div>
-															</div>
-														</li>
-														<li>
-															<div class="list_inner">
-																<div class="time">
-																	<span>2020</span>
-																</div>
-																<div class="place">
-																	<h3>Program Magang</h3>
-																	<span>In Loker Programmer</span>
-																</div>
-															</div>
-														</li>
-														<li>
-															<div class="list_inner">
-																<div class="time">
-																	<span>2021</span>
-																</div>
-																<div class="place">
-																	<h3>Program Kampus Mengajar</h3>
-																	<span>In Kampus Merdeka</span>
-																</div>
-															</div>
-														</li>
-                                                        <li>
-															<div class="list_inner">
-																<div class="time">
-																	<span>2021</span>
-																</div>
-																<div class="place">
-																	<h3>Asisten Laboratorium</h3>
-																	<span>Fakultas Ilmu Komputer UMI</span>
-																</div>
-															</div>
-														</li>
-                                                        <li>
-															<div class="list_inner">
-																<div class="time">
-																	<span>2022</span>
-																</div>
-																<div class="place">
-																	<h3>Virtual Education Academy</h3>
-																	<span>Microsoft</span>
-																</div>
-															</div>
-														</li>
-													</ul>
-												</div>
+
 											</div>
 											
 											<div class="testimonial">
@@ -395,7 +280,7 @@
 															<div class="list_inner">
 																<div class="text">
 																	<i class="icon-quote-left"></i>
-																	<p>Semoga Saya dapat berkontribusi terhadap perusahaan yang Saya lamar.</p>
+																	<p>Semoga Saya bisa menjadi lulusan yang terbaik dan menjadi business man.</p>
 																</div>
 																
 															</div>
@@ -420,24 +305,17 @@
 			<div class="edrea_tm_section" id="portfolio">
 				<div class="section_inner">
 					<div class="edrea_tm_news swiper-section">
-						<div class="edrea_tm_main_title">
-							<h3>All <span class="coloring">Project</span></h3>
-						</div>
+					<div class="image">
+								<img src="https://adhyy.my.id/public/home/img/thumbs/1-1.jpg" alt="" />
+								<div class="main" data-img-url="aan1.jpg"></div>
+							</div>
 						<div class="news_list">
 							<div class="swiper-container">
 								<div class="swiper-wrapper">
 																	</div>
-								<div class="edrea_tm_swiper_progress fill">
-									<div class="my_pagination_in">
-										<span class="current"></span>
-										<span class="pagination_progress"><span class="all"><span></span></span></span>
-										<span class="total"></span>
-									</div>
-									<div class="my_navigation">
-										<ul>
-											<li><a class="my_prev" href="#"><i class="icon-left-open-1"></i></a></li>
-											<li><a class="my_next" href="#"><i class="icon-right-open-1"></i></a></li>
-										</ul>contact
+																	<div class="right">
+MAINTENANCE... 
+PROSES EDITING 
 									</div>
 								</div>
 							</div>
@@ -466,7 +344,7 @@
 									<li>
 										<div class="list_inner">
 											<i class="icon-phone"></i>
-											<span><a href="#">+62 857-1354-6327</a></span>
+											<span><a href="#">+62 856-5636-0926</a></span>
 										</div>
 									</li>
 									<li>
@@ -506,7 +384,7 @@
 											<textarea id="message" placeholder="Message"></textarea>
 										</div>
 										<div class="edrea_tm_button">
-											<a id="send_message" href="https://wa.me/6285713546327">Send Message</a>
+											<a id="send_message" href="https://wa.me/6285656360926">Send Message</a>
 										</div>
 
 										<!-- If you want change mail address to yours, just open "modal" folder >> contact.php and go to line 4 and change detail to yours.  -->

@@ -2,7 +2,7 @@
 
 <?php
 
-include 'views/home.php';
+include 'views/daftar.php';
 
 ?>
 

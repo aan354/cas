@@ -16,9 +16,10 @@
   <table class="table table-bordered">
     <thead>
       <tr>
+        <th><p style="text-align:center">NO</th>
         <th><p style="text-align:center">Nama</th>
-        <th><p style="text-align:center">Organisasi</th>
-        <th><p style="text-align:center">Aliran</th>
+        <th><p style="text-align:center">PEKERJAAN</th>
+        <th><p style="text-align:center">PACAR</th>
       </tr>
     </thead>
     <tbody>

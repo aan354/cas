@@ -2,7 +2,7 @@
 
 <?php
 
-include 'views/test.php';
+include 'views/home.php';
 
 ?>
 
